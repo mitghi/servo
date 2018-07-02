@@ -1,0 +1,19 @@
+- 24.06.2018
+-- Decouple Host/Port check from server implementation (????)
+
+- 26.06.2018
+--[] Add logging configuration to command line arguments
+--[] Define interface (protocol) conformance
+--[] Refactor signal handlers (currently disorganized ....)
+--[] Refactor statistics URI
+
+- 28.06.2018
+--[] Decouple logs from servo implementation ( redirect output, edit or discard )
+--[] Handle undefined route ( at single level or hiarchical level )
+
+
+- - - - - - -
+
+IDEAS:
+- Embed caching layer (for k/v set)
+- Module subsystem

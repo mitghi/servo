@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/mitghi/util/atoms"
+	"github.com/mitghi/x/atoms"
 )
 
 /**

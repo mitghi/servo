@@ -12,7 +12,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/mitghi/util/atoms"
+	"github.com/mitghi/x/atoms"
 )
 
 const (
